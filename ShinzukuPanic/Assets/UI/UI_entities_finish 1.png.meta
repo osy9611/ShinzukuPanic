@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 3b79a69e751ee194d979c622f260fc87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_entities_finish 1_0
+  - first:
+      213: 21300002
+    second: UI_entities_finish 1_1
+  - first:
+      213: 21300004
+    second: UI_entities_finish 1_2
+  - first:
+      213: 21300006
+    second: UI_entities_finish 1_3
+  - first:
+      213: 21300008
+    second: UI_entities_finish 1_4
+  - first:
+      213: 21300010
+    second: UI_entities_finish 1_5
+  - first:
+      213: 21300012
+    second: UI_entities_finish 1_6
+  - first:
+      213: 21300014
+    second: UI_entities_finish 1_7
+  - first:
+      213: 21300016
+    second: UI_entities_finish 1_8
+  - first:
+      213: 21300018
+    second: UI_entities_finish 1_9
+  - first:
+      213: 21300020
+    second: UI_entities_finish 1_10
+  - first:
+      213: 21300022
+    second: UI_entities_finish 1_11
+  - first:
+      213: 21300024
+    second: UI_entities_finish 1_12
+  - first:
+      213: 21300026
+    second: UI_entities_finish 1_13
+  - first:
+      213: 21300028
+    second: UI_entities_finish 1_14
+  - first:
+      213: 21300030
+    second: UI_entities_finish 1_15
+  - first:
+      213: 21300032
+    second: UI_entities_finish 1_16
+  - first:
+      213: 21300034
+    second: UI_entities_finish 1_17
+  - first:
+      213: 21300036
+    second: UI_entities_finish 1_18
+  - first:
+      213: 21300038
+    second: UI_entities_finish 1_19
+  - first:
+      213: 21300040
+    second: UI_entities_finish 1_20
+  - first:
+      213: 21300042
+    second: UI_entities_finish 1_21
+  - first:
+      213: 21300044
+    second: UI_entities_finish 1_22
+  - first:
+      213: 21300046
+    second: UI_entities_finish 1_23
+  - first:
+      213: 21300048
+    second: UI_entities_finish 1_24
+  - first:
+      213: 21300050
+    second: UI_entities_finish 1_25
+  - first:
+      213: 21300052
+    second: UI_entities_finish 1_26
+  - first:
+      213: 21300054
+    second: UI_entities_finish 1_27
+  - first:
+      213: 21300056
+    second: UI_entities_finish 1_28
+  - first:
+      213: 21300058
+    second: UI_entities_finish 1_29
+  - first:
+      213: 21300060
+    second: UI_entities_finish 1_30
+  - first:
+      213: 21300062
+    second: UI_entities_finish 1_31
+  - first:
+      213: 21300064
+    second: UI_entities_finish 1_32
+  - first:
+      213: 21300066
+    second: UI_entities_finish 1_33
+  - first:
+      213: 21300068
+    second: UI_entities_finish 1_34
+  - first:
+      213: 21300070
+    second: UI_entities_finish 1_35
+  - first:
+      213: 21300072
+    second: UI_entities_finish 1_36
+  - first:
+      213: 21300074
+    second: UI_entities_finish 1_37
+  - first:
+      213: 21300076
+    second: UI_entities_finish 1_38
+  - first:
+      213: 21300078
+    second: UI_entities_finish 1_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_entities_finish 1_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2828
+        width: 754
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441539b443dd0646995393cb0988432
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2827
+        width: 754
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e105013786340f418509f7628812bcd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_2
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2780
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414aa7f3d9205934a91f047144e4965e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2500
+        width: 538
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3389024f2cf644c86f62e77c24c7aa
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2502
+        width: 537
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2a3ca39995b7459002f3199e17b25
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_5
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2247
+        width: 291
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a32c15b34760c418a4b00c7c637cd3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_6
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2244
+        width: 290
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35219e1ff6f3674fbbb24fc25e32cdf
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2237
+        width: 582
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f034e4eab30ee74fb838ba58aaff447
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2238
+        width: 582
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb263e8a18a77745ae5c53e29005370
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1941
+        width: 415
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e87f44af7394645b2800b63e485c62
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1939
+        width: 416
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee33d5076af4b246b45f0f6d6169a35
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1941
+        width: 462
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144daa1197a7efa42b2758460c939716
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_12
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1942
+        width: 462
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5757ad721ea857d40bed6b3c67513e20
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1591
+        width: 574
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22265c5122d3b9c48a522403ea35e2fb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1705
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bdf6b0444458743855c719a2a0f131
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_15
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1715
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd4e505cea32a42ba670fb869429a3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_16
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1702
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5b190a1adff6f4d95f311a4a3a39bd
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1712
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984f06ba5327e040835fe7843722efd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_18
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1705
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b21e0667308be42b382fd386c10af7
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_19
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1715
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbc288a445b6348a0b5137bbe7a263
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_20
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1489
+        width: 373
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80272b5763ce6c54d9539290077d5b0c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_21
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1506
+        width: 145
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4203c74caa7134fabc045ecaa5ca29
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1339
+        width: 828
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df6a0b843d4c874fa9c2fe0d083b7ed
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_23
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1531
+        width: 159
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033812f385eff546920fd5c68b3102f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_24
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1385
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a402c681051baf45b66cd4018888f63
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_25
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1208
+        width: 346
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d0d731e88ba942b1666623f76a6ac
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_26
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1219
+        width: 228
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd6da007558424ba6e1b254cf0d8ae
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1139
+        width: 898
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92e0139a4efef46b7e86309b23fac1
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_28
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1189
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d331824e8ee6c4db974746b5b71a64
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_29
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1189
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f59cc72e77e92418c15fec57848c35
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 944
+        width: 239
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d98d45fd5d394997e1cc6ec2bedc4
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 992
+        width: 1681
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3c495081092242a02397f07e965eb
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 91
+        width: 775
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969780bc1601db45a8f0e93d516ec69
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_33
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 496
+        width: 414
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b20df7df4b9348ae736c2e763b8b4
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_34
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 501
+        width: 414
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac64d922f69fc4f830f6fe5e48d584
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 160
+        width: 248
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677daad510ce3e4418bce2c6fd485662
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_36
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 186
+        width: 45
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7f650c7daa3b4aba21179390e06c5
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_37
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 40
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876612e928ea15f48b2b9a3187a4002a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_38
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 40
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d95c9f791224944cba2ce96b99ff691
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_entities_finish 1_39
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 103
+        width: 155
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7ffa0c553ab5498b1d78cc48b3ba4
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ffddfb728cda4a4587663fdae5ac1ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
